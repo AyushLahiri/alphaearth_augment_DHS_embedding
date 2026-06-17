@@ -216,7 +216,7 @@ Use Python with Earth Engine/geospatial packages, scikit-learn, XGBoost, and PyT
 `all_metrics_with GNNsingleheadtraining_smoothing.csv` has one record per spatial fold or held-out country, with the setup, sample size, and metrics.
 Headline results use pooled prediction rows, not a simple mean of fold-level or country-level R2.
 
-## Things I still need to do
+## Next to do
 
 - Look at more countries, probably outside Africa too, and see whether any of this holds across continents.
 - Run the 0/5/10 km buffer checks, clean up source-year matching, and separate LOCO ranking from calibration.
